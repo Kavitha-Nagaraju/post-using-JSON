@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  background-color: blue;
+  width:400px;
+  height:300px;
+}
+
+label{
+  display: inline-block;
+  width:200px;
+  
+}
+input{
+  display: inline-block;
+  width:100px;
+}
